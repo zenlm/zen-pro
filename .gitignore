@@ -1,0 +1,13 @@
+
+# AI assistant symlinks (local only)
+CLAUDE.md
+AGENTS.md
+GEMINI.md
+QWEN.md
+
+# Model files
+*.safetensors
+*.bin
+*.gguf
+*.pt
+*.pth
