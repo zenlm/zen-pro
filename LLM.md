@@ -8,7 +8,7 @@
 
 ## Overview
 
-zen-pro is the 8B professional-grade model from Zen LM. Abliterated variant of Qwen3-8B.
+zen-pro is the 8B professional-grade model from Zen LM. Abliterated variant of -8B.
 Built for professional workloads requiring complex reasoning without content restrictions.
 
 ## Architecture
@@ -16,7 +16,7 @@ Built for professional workloads requiring complex reasoning without content res
 - Parameters: 8B
 - Architecture: Qwen3ForCausalLM
 - Context: 32K tokens
-- Base: Qwen3-8B abliterated
+- Base: -8B abliterated
 - License: Apache 2.0
 
 ## Rules for AI Assistants
